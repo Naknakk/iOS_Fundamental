@@ -48,7 +48,7 @@
                     <navigationItem key="navigationItem" title="세그웨이 테스트" id="p5v-1Z-EdO">
                         <barButtonItem key="rightBarButtonItem" systemItem="fastForward" id="LMj-GQ-WRV">
                             <connections>
-                                <segue destination="Yns-f7-0RL" kind="show" id="Tka-Ug-TQZ"/>
+                                <segue destination="Yns-f7-0RL" kind="presentation" id="u8r-WT-LKc"/>
                             </connections>
                         </barButtonItem>
                     </navigationItem>
@@ -93,7 +93,7 @@
                     </navigationBar>
                     <nil name="viewControllers"/>
                     <connections>
-                        <segue destination="BYZ-38-t0r" kind="relationship" relationship="rootViewController" id="0sk-bx-Ztp"/>
+                        <segue destination="BYZ-38-t0r" kind="relationship" relationship="rootViewController" id="Bbd-Ba-icS"/>
                     </connections>
                 </navigationController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="RXa-M7-CzM" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
@@ -102,7 +102,7 @@
         </scene>
     </scenes>
     <inferredMetricsTieBreakers>
-        <segue reference="Tka-Ug-TQZ"/>
+        <segue reference="I0a-vT-3tg"/>
     </inferredMetricsTieBreakers>
     <resources>
         <systemColor name="systemBackgroundColor">
